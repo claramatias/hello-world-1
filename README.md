@@ -18,3 +18,6 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 ### Matheus
 [:guardsman:](https://gist.github.com/rxaviers/7360908)
+
+### Maria Clara
+[:snowman:](https://gist.github.com/rxaviers/7360908)
